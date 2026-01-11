@@ -61,7 +61,9 @@ Below are the key screenshots included in the repository. Each screenshot demons
 
 ### Home dashboard
 
-![Home dashboard](SS/Home Page.png)
+<p align="center">
+  <img src="SS/Home Page.png" alt="Home dashboard" width="320" />
+</p>
 
 Caption: Main app dashboard showing quick stats and navigation to other features.
 
@@ -69,7 +71,9 @@ Caption: Main app dashboard showing quick stats and navigation to other features
 
 ### Swipe interface
 
-![Swipe interface](SS/Swipe Page.png)
+<p align="center">
+  <img src="SS/Swipe Page.png" alt="Swipe interface" width="320" />
+</p>
 
 Caption: Swipe-based discovery interface where users like or pass on profiles.
 
@@ -77,7 +81,9 @@ Caption: Swipe-based discovery interface where users like or pass on profiles.
 
 ### Matches list
 
-![Matches list](SS/Matches.png)
+<p align="center">
+  <img src="SS/Matches.png" alt="Matches list" width="320" />
+</p>
 
 Caption: List of mutual matches available to review and message.
 
@@ -85,7 +91,9 @@ Caption: List of mutual matches available to review and message.
 
 ### Profile page
 
-![Profile page](SS/Profile.png)
+<p align="center">
+  <img src="SS/Profile.png" alt="Profile page" width="320" />
+</p>
 
 Caption: User profile view with avatar, subjects, and editable fields.
 
@@ -93,7 +101,9 @@ Caption: User profile view with avatar, subjects, and editable fields.
 
 ### Sign up screen
 
-![Sign up screen](SS/Sighup.png)
+<p align="center">
+  <img src="SS/Sighup.png" alt="Sign up screen" width="320" />
+</p>
 
 Caption: Registration flow for creating a local user account.
 
