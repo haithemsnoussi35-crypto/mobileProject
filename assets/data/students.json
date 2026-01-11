@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "name": "Alex Johnson",
+    "field": "Computer Science",
+    "skills": ["Python", "Machine Learning", "Data Structures"],
+    "bio": "Passionate about AI and data science. Looking for study partners for algorithm practice.",
+    "rating": 4.5,
+    "avatar": "assets/avatars/avatar1.png"
+  },
+  {
+    "id": "2",
+    "name": "Sarah Chen",
+    "field": "Mathematics",
+    "skills": ["Calculus", "Linear Algebra", "Statistics"],
+    "bio": "Math enthusiast. Love solving complex problems and helping others understand concepts.",
+    "rating": 4.8,
+    "avatar": "assets/avatars/avatar2.png"
+  },
+  {
+    "id": "3",
+    "name": "Michael Brown",
+    "field": "Engineering",
+    "skills": ["Physics", "CAD Design", "Project Management"],
+    "bio": "Engineering student focused on practical applications. Great at explaining technical concepts.",
+    "rating": 4.3,
+    "avatar": "assets/avatars/avatar3.png"
+  },
+  {
+    "id": "4",
+    "name": "Emma Wilson",
+    "field": "Biology",
+    "skills": ["Molecular Biology", "Chemistry", "Research Methods"],
+    "bio": "Pre-med student. Excellent at breaking down complex biological processes.",
+    "rating": 4.7,
+    "avatar": "assets/avatars/avatar1.png"
+  },
+  {
+    "id": "5",
+    "name": "David Lee",
+    "field": "Business",
+    "skills": ["Finance", "Marketing", "Strategy"],
+    "bio": "Business major with focus on entrepreneurship. Great study partner for case studies.",
+    "rating": 4.2,
+    "avatar": "assets/avatars/avatar2.png"
+  },
+  {
+    "id": "6",
+    "name": "Olivia Martinez",
+    "field": "Psychology",
+    "skills": ["Research", "Statistics", "Writing"],
+    "bio": "Psychology student interested in cognitive science. Very organized and detail-oriented.",
+    "rating": 4.6,
+    "avatar": "assets/avatars/avatar3.png"
+  }
+]
+
+
+
+
+
