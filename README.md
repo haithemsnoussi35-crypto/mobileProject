@@ -172,9 +172,9 @@ Potential enhancements that would strengthen the project for further development
 
 ---
 
-## Author
+## Authors
 
-Author: [Your Name Here]
+Authors: [Haithem Snoussi & Fraj Ghrab]
 
-If you would like, I can also generate a short project report tailored for a grading rubric (learning objectives, methodology, and evaluation notes). Please tell me if you want that included.
+
 
